@@ -166,7 +166,7 @@ export const CASES = [
         category: "Energía",
         desc: "Instalación de 50kW de potencia fotovoltaica y 20 puntos de recarga en garaje comunitario.",
         stats: { savings: "60%", roi: "3 años" },
-        image: "/case-1.jpg"
+        image: "/case-1.png"
     },
     {
         slug: "seguridad-parque-logistico",
@@ -174,7 +174,7 @@ export const CASES = [
         category: "Seguridad",
         desc: "Despliegue de 40 cámaras térmicas y control de accesos biométrico para 500 empleados.",
         stats: { incidents: "-90%", efficiency: "+25%" },
-        image: "/case-2.jpg"
+        image: "/case-2.png"
     },
     {
         slug: "iluminacion-residencial-norte",
@@ -182,6 +182,6 @@ export const CASES = [
         category: "Iluminación",
         desc: "Sustitución de 500 luminarias por LED inteligente con detección de presencia.",
         stats: { savings: "75%", maintenance: "-90%" },
-        image: "/case-3.jpg"
+        image: "/case-3.png"
     }
 ];
